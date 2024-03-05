@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Om
-- 👀 I’m interested in everthing that is ART
+- 👀 I’m interested in everything that is ART
 - 🌱 I’m currently learning web development
 - 💞️ I can collaborate on web projects, photoshoot, editing
 - 📫 Reach me Insta : AnkitKmwt || Mail : mrop18@gmail.com || WhatsApp : 8955770888
