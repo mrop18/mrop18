@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Om
+- It's my coding practice
 - 👀 I’m interested in everything that is ART
 - 🌱 I’m currently learning web development
 - 💞️ I can collaborate on web projects, photoshoot, editing
