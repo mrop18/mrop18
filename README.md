@@ -1,12 +1,15 @@
-- 👋 Hi, I’m Om
-- It's my coding practice
-- 👀 I’m interested in everything that is ART
-- 🌱 I’m currently learning web development
-- 💞️ I can collaborate on web projects, photoshoot, editing
-- 📫 Reach me Insta : AnkitKmwt || Mail : mrop18@gmail.com 
-- ⚡ Fun fact: everything about me.
+# Hi there, I'm Om! 👋
 
-<!---
-mrop18/mrop18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! This is where I practice and showcase my coding journey. I'm passionate about art in all its forms and currently focusing on learning web development.
+
+## About Me
+- 👀 I’m interested in everything that is ART.
+- 🌱 I’m currently learning web development.
+- 💞️ I can collaborate on web projects, photoshoots, and editing.
+- ⚡ Fun fact: Everything about me is a blend of creativity and code!
+
+## Get in Touch
+- 📫 Reach me on [Instagram](https://www.instagram.com/AnkitKmwt)
+- ✉️ Email me at mrop18@gmail.com
+
+Feel free to explore my repositories and reach out for collaborations or just to say hi! 😊
