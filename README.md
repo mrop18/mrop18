@@ -1,15 +1,17 @@
-# Hi there, I'm Om! 👋
+# 🌌 Welcome to the ॐ's Cosmos of Creativity! 🚀
 
-Welcome to my GitHub profile! This is where I practice and showcase my coding journey. I'm passionate about art in all its forms and currently focusing on learning web development.
+## Greetings, Earthlings! 👋
+- 👋 Hi, I’m ॐ, a artist currently navigating the vast universe of code and creativity.
+  
+## Journey Through the Stars ✨
+- 🌱 Currently cultivating my skills in the beautiful garden of web development.
+- 🌌 Passionately collaborating on web projects, capturing moments through photography, and adding magic through editing.
+- ⚡ Fun fact: My code is as colorful as my imagination!
 
-## About Me
-- 👀 I’m interested in everything that is ART.
-- 🌱 I’m currently learning web development.
-- 💞️ I can collaborate on web projects, photoshoots, and editing.
-- ⚡ Fun fact: Everything about me is a blend of creativity and code!
+## Let's Connect
+- 📫 Catch me on [Instagram](https://www.instagram.com/AnkitKmwt) for a visual feast. OOPs, There is nothing, you can use this tool to DM.
+- ✉️ Drop me a line at mrop18@gmail.com and let's co-create the future.
 
-## Get in Touch
-- 📫 Reach me on [Instagram](https://www.instagram.com/AnkitKmwt)
-- ✉️ Email me at mrop18@gmail.com
+## Creative Journey
+Explore my repositories and witness the fusion of pixels and code. Together, Let's embark on a journey to infinity and beyond!
 
-Feel free to explore my repositories and reach out for collaborations or just to say hi! 😊
