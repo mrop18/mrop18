@@ -23,6 +23,7 @@
 
 <p align="center">
   - 📫 Catch me on <a href="https://www.instagram.com/AnkitKmwt">Instagram</a> for a visual feast. OOPs, There is nothing, you can use this tool to DM.<br>
+  - 📫 Link me on <a href="https://www.linkedin.com/in/ankitkmwt/">Linkedin</a>. Okay, There is something.<br>
   - ✉️ Drop me a line at <a href="mailto:mrop18@gmail.com">mrop18@gmail.com</a> and let's co-create the future.
 </p>
 
