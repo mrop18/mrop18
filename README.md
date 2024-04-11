@@ -14,7 +14,7 @@
 <p align="center">
   - 🌱 Currently cultivating my skills in the beautiful garden of web development.<br>
   - 🌌 Passionately collaborating on web projects, capturing moments through photography, and adding magic through editing.<br>
-  - ⚡ Fun fact: My code is as colorful as my imagination!
+  - ⚡ Fun fact: My code is as dirty & colorful as my imagination!
 </p>
 
 
