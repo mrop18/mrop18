@@ -34,3 +34,7 @@
 <p align="center">
   Explore my repositories and witness the fusion of pixels and code. Together, Let's embark on a journey to infinity and beyond!
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrop18&label=Visitors&color=brightgreen&style=for-the-badge" alt="mrop18" />
+</p>
